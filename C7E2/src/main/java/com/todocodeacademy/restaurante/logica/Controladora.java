@@ -3,10 +3,7 @@ package com.todocodeacademy.restaurante.logica;
 import com.todocodeacademy.restaurante.persistencia.ControladoraPersistencia;
 import java.util.List;
 
-/**
- *
- * @author Luisina
- */
+
 public class Controladora {
     
     ControladoraPersistencia controlPersis = new ControladoraPersistencia();
