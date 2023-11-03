@@ -14,6 +14,17 @@ public class Persona {
         this.nroTlf = nroTlf;
     }
 
+    @Override
+    public String toString() {
+        return "Persona{" +
+                "id='" + id + '\'' +
+                ", nombre='" + nombre + '\'' +
+                ", edad=" + edad +
+                ", direccion='" + direccion + '\'' +
+                ", nroTlf=" + nroTlf +
+                '}';
+    }
+
     public Persona() {
     }
 

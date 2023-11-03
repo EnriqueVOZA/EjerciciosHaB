@@ -21,7 +21,7 @@ public class Main {
         }
         for (int k = 0; k < personas.length; k++) {
             if(personas[k].getEdad()<30){
-                System.out.println("Los menores de treinta son: "+personas[k].getNombre());
+                System.out.println("Los menores de treinta son: "+personas[k].toString());
             }
 
         }
