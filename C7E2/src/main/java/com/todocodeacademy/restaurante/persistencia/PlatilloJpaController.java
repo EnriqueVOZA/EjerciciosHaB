@@ -12,10 +12,7 @@ import javax.persistence.Persistence;
 import javax.persistence.criteria.CriteriaQuery;
 import javax.persistence.criteria.Root;
 
-/**
- *
- * @author Luisina
- */
+
 public class PlatilloJpaController implements Serializable {
 
     public PlatilloJpaController(EntityManagerFactory emf) {
