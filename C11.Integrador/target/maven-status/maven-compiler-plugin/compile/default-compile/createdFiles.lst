@@ -1,0 +1,15 @@
+com/ejercicios/logica/Partido.class
+com/ejercicios/persistencia/exceptions/IllegalOrphanException.class
+com/ejercicios/persistencia/exceptions/PreexistingEntityException.class
+com/ejercicios/persistencia/PartidoJpaController.class
+com/ejercicios/persistencia/EquipoJpaController.class
+com/ejercicios/partidosapp/JakartaRestConfiguration.class
+com/ejercicios/servlet/equipoSv.class
+com/ejercicios/persistencia/exceptions/NonexistentEntityException.class
+com/ejercicios/logica/Partido_.class
+com/ejercicios/partidosapp/resources/JakartaEE8Resource.class
+com/ejercicios/logica/Controladora.class
+com/ejercicios/servlet/partidoSv.class
+com/ejercicios/persistencia/ControladoraPersistencia.class
+com/ejercicios/logica/Equipo_.class
+com/ejercicios/logica/Equipo.class

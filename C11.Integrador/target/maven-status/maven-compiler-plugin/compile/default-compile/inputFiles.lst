@@ -1,0 +1,13 @@
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/partidosapp/resources/JakartaEE8Resource.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/servlet/equipoSv.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/persistencia/EquipoJpaController.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/persistencia/PartidoJpaController.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/persistencia/ControladoraPersistencia.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/persistencia/exceptions/NonexistentEntityException.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/logica/Partido.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/logica/Equipo.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/persistencia/exceptions/IllegalOrphanException.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/persistencia/exceptions/PreexistingEntityException.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/servlet/partidoSv.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/logica/Controladora.java
+/home/enriquevoza/NetBeansProjects/partidosApp/src/main/java/com/ejercicios/partidosapp/JakartaRestConfiguration.java
