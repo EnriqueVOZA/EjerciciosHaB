@@ -85,7 +85,7 @@
         <h1>Registrar Equipo</h1>
         <form action="equipoSv" method="POST"> 
         <label>
-            <input type="text" name="equipo" value="equipo1" > Partido A
+            <input type="text" name="equipo" value="equipo1" >
         </label>  
                 <br>
             <br>
