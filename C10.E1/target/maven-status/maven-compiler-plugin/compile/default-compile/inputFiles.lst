@@ -1,0 +1,10 @@
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/persistencia/exceptions/IllegalOrphanException.java
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/resources/JakartaEE8Resource.java
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/persistencia/exceptions/NonexistentEntityException.java
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/JakartaRestConfiguration.java
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/logica/Votaciones.java
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/persistencia/ControladoraPersistencia.java
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/logica/Controladora.java
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/servlet/votoSv.java
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/persistencia/exceptions/PreexistingEntityException.java
+/home/enriquevoza/NetBeansProjects/C10.E1/src/main/java/com/ejercicios/c10/e1/persistencia/VotacionesJpaController.java
